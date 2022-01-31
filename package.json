@@ -1,0 +1,17 @@
+{
+  "name": "discord-interaction-templete",
+  "version": "1.0.0",
+  "description": "Interaction HTTP endpoint",
+  "dependencies": {
+    "discord-api-types": "^0.26.1",
+    "discord-interactions": "^2.4.1",
+    "dotenv": "^15.0.0",
+    "express": "^4.17.2",
+    "node-fetch": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.13",
+    "@types/node-fetch": "^3.0.3",
+    "typescript": "^4.5.5"
+  }
+}
