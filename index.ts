@@ -14,4 +14,4 @@ app.post(
       res.status(result.HTTPStatus).json(result.data)
     )
 );
-  app.listen(process.env.PORT || 90, () => console.log("Ready."));
+  app.listen(process.env.PORT || 80, () => console.log("Ready."));
